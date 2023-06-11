@@ -1,5 +1,5 @@
 <h2>Hi, This is a simple location application.</h2>
-<h3>If you press </h3>
+<h3>If you enter location name and description and after that if you press long any point at map that location will save and adds in the list.</h3>
 
 <h3>Swift</h3>
 <h3>Location</h3>
